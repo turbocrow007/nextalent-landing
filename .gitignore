@@ -1,0 +1,12 @@
+node_modules/
+dist/
+output/
+.playwright-cli/
+.env*
+!.env.example
+.openai/.local/
+*.local
+
+.openai/
+.hallmark/
+public/assets/deck-photo*
